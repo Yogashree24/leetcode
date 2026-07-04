@@ -29,3 +29,15 @@ This repository contains my solutions to LeetCode Data Structures and Algorithms
 - Bit Manipulation
 
 ## Repository Structure
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Yogashree24/leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Yogashree24/leetcode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
