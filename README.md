@@ -80,8 +80,17 @@ This repository contains my solutions to LeetCode Data Structures and Algorithms
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Yogashree24/leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Yogashree24/leetcode/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Yogashree24/leetcode/tree/master/0027-remove-element) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Yogashree24/leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Yogashree24/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
