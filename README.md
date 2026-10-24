@@ -104,4 +104,5 @@ This repository contains my solutions to LeetCode Data Structures and Algorithms
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Yogashree24/leetcode/tree/master/0182-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/Yogashree24/leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
