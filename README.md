@@ -48,6 +48,7 @@ This repository contains my solutions to LeetCode Data Structures and Algorithms
 | ------- |
 | [0013-roman-to-integer](https://github.com/Yogashree24/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Yogashree24/leetcode/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/Yogashree24/leetcode/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
 | ------- |
