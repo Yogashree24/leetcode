@@ -93,4 +93,8 @@ This repository contains my solutions to LeetCode Data Structures and Algorithms
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Yogashree24/leetcode/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Yogashree24/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
