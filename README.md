@@ -44,6 +44,7 @@ This repository contains my solutions to LeetCode Data Structures and Algorithms
 | [0001-two-sum](https://github.com/Yogashree24/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Yogashree24/leetcode/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yogashree24/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Yogashree24/leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -87,11 +88,13 @@ This repository contains my solutions to LeetCode Data Structures and Algorithms
 | [0013-roman-to-integer](https://github.com/Yogashree24/leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Yogashree24/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Yogashree24/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Yogashree24/leetcode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Yogashree24/leetcode/tree/master/0027-remove-element) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yogashree24/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Yogashree24/leetcode/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,4 +121,8 @@ This repository contains my solutions to LeetCode Data Structures and Algorithms
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yogashree24/leetcode/tree/master/0070-climbing-stairs) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Yogashree24/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
