@@ -39,6 +39,7 @@ This repository contains my solutions to LeetCode Data Structures and Algorithms
 | [0014-longest-common-prefix](https://github.com/Yogashree24/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Yogashree24/leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Yogashree24/leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Yogashree24/leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,4 +128,12 @@ This repository contains my solutions to LeetCode Data Structures and Algorithms
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Yogashree24/leetcode/tree/master/0202-happy-number) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Yogashree24/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Yogashree24/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
