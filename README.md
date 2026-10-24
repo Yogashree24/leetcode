@@ -41,9 +41,11 @@ This repository contains my solutions to LeetCode Data Structures and Algorithms
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yogashree24/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Yogashree24/leetcode/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Yogashree24/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Yogashree24/leetcode/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -72,4 +74,8 @@ This repository contains my solutions to LeetCode Data Structures and Algorithms
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Yogashree24/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Yogashree24/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
