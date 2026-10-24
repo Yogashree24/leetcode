@@ -38,6 +38,7 @@ This repository contains my solutions to LeetCode Data Structures and Algorithms
 | [0001-two-sum](https://github.com/Yogashree24/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Yogashree24/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Yogashree24/leetcode/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/Yogashree24/leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@ This repository contains my solutions to LeetCode Data Structures and Algorithms
 | [0027-remove-element](https://github.com/Yogashree24/leetcode/tree/master/0027-remove-element) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yogashree24/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Yogashree24/leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Yogashree24/leetcode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
