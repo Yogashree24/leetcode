@@ -37,6 +37,7 @@ This repository contains my solutions to LeetCode Data Structures and Algorithms
 | ------- |
 | [0001-two-sum](https://github.com/Yogashree24/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Yogashree24/leetcode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Yogashree24/leetcode/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +79,8 @@ This repository contains my solutions to LeetCode Data Structures and Algorithms
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Yogashree24/leetcode/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Yogashree24/leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
