@@ -43,6 +43,7 @@ This repository contains my solutions to LeetCode Data Structures and Algorithms
 | ------- |
 | [0001-two-sum](https://github.com/Yogashree24/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Yogashree24/leetcode/tree/master/0013-roman-to-integer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Yogashree24/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
@@ -85,6 +86,7 @@ This repository contains my solutions to LeetCode Data Structures and Algorithms
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Yogashree24/leetcode/tree/master/0027-remove-element) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Yogashree24/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,4 +99,5 @@ This repository contains my solutions to LeetCode Data Structures and Algorithms
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Yogashree24/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Yogashree24/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
