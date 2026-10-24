@@ -82,6 +82,7 @@ This repository contains my solutions to LeetCode Data Structures and Algorithms
 | ------- |
 | [0013-roman-to-integer](https://github.com/Yogashree24/leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Yogashree24/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Yogashree24/leetcode/tree/master/0070-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,4 +106,12 @@ This repository contains my solutions to LeetCode Data Structures and Algorithms
 | ------- |
 | [0182-duplicate-emails](https://github.com/Yogashree24/leetcode/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Yogashree24/leetcode/tree/master/0197-rising-temperature) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Yogashree24/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Yogashree24/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
